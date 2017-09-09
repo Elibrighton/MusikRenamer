@@ -1,0 +1,8 @@
+MusikRenamer Ideas
+
+Manage Music collection directories
+
+Search for a song by name
+Search for a song list
+
+Paste song path and backup directory
